@@ -163,6 +163,17 @@ These aircraft models experienced incidents without resulting in serious consequ
 well-trained crew response, or favorable operating conditions. This highlights an important distinction: not all incidents lead to injuries or 
 fatalities, especially when strong aviation safety systems are in place.
 
+**Conclusion**
+
+The aviation industry has seen substantial safety improvements over the years, driven by strict regulations and advancements in technology. 
+As a result, accident rates have steadily declined. However, our analysis shows that risk levels still vary significantly depending on aircraft type, engine configuration, and flight purpose.
+
+* Single-engine reciprocating aircraft—notably models like Cessna and Piper—exhibit the highest risk, especially in personal and recreational use.
+
+* Twin-engine and jet-powered aircraft demonstrate much lower incident and injury rates, indicating greater reliability for commercial and executive operations.
+
+* Geographic hotspots within the U.S., including states like California, Florida, and Texas, underscore the need for heightened operational awareness and possibly targeted safety initiatives in high-traffic regions
+
 
 
 
