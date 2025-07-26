@@ -177,28 +177,28 @@ As a result, accident rates have steadily declined. However, our analysis shows 
 **Recomendations**
 
 
-***Prioritize Twin-Engine and Jet Aircraft for Investment**
+**Prioritize Twin-Engine and Jet Aircraft for Investment**
 Opt for turbojet, turbo fan, and turboprop aircraft, which have consistently shown lower incident and injury rates. 
 These aircraft are more suitable for commercial and executive operations due to better safety performance.
 
-***Avoid Single-Engine Reciprocating Aircraft for High-Value Operations**
+**Avoid Single-Engine Reciprocating Aircraft for High-Value Operations**
 Models like Cessna and Piper, though widely used, have higher historical injury and incident rates—especially in personal and recreational flights. 
 These may not be ideal for a company entering the aviation sector with safety as a top priority.
 
-***Focus on Commercial or Executive Flight Purposes**
+**Focus on Commercial or Executive Flight Purposes**
 Data shows personal and recreational flights contribute the highest injury counts. Starting with business, executive, or certified commercial operations reduces risk exposure.
 
-***Implement Location-Specific Safety Measures**
+**Implement Location-Specific Safety Measures**
 U.S. regions with historically high accident rates—such as California, Florida, and Texas—require more rigorous preflight procedures, localized training, 
 or risk-mitigating partnerships when operating in those areas.
 
-***Invest in Safety Training and Modern Equipment**
+**Invest in Safety Training and Modern Equipment**
 Even with lower-risk aircraft, incidents can occur. Ensure continued investment in pilot training, aircraft maintenance, and modern safety technologies like real-time monitoring and automated alerts.
 
-***Regularly Monitor and Reassess Aircraft Performance**
+**Regularly Monitor and Reassess Aircraft Performance**
 Maintain a data-driven safety dashboard to continuously monitor incident trends across aircraft types, flight purposes, and regions—adjusting strategy as new data emerges.
 
-***Consider Insurance and Risk Mitigation Strategies**
+**Consider Insurance and Risk Mitigation Strategies**
 Given the nature of aviation, incorporate robust insurance coverage, risk modeling, and emergency response plans to protect the business and passengers.
 
 
