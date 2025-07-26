@@ -4,16 +4,21 @@
 **AVIATION RISK INSIGHTS**
 
 
+**Interactive Dashboard**
+
+[Click the link to explore](https://public.tableau.com/shared/Y6PPJ97PN?:display_count=n&:origin=viz_share_link)
+
+
 
 **Overview**
 
 
 
-This project explores over 90,000 aviation incidents to uncover hidden trends and high-risk patterns across flight operations,
+This project explores over 90,000 aviation incidents to uncover hidden trends and high-risk patterns across flight operations.
 
 aiming to identify the safest aircraft makes for business investment.
 
-Using Python for data wrangling and Tableau for visual storytelling, we analyze key variables such as event dates, locations, aircraft makes, engine types.
+Using Python for data wrangling and Tableau for visual storytelling, we analyze key variables such as event dates, locations, aircraft makes, and engine types.
 
 
 
