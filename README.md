@@ -17,7 +17,6 @@ Using Python for data wrangling and Tableau for visual storytelling, we analyze 
 **Business Understanding**
 
 
-
 The company is expanding its investment portfolio by entering the aviation industry. 
 
 As part of this strategic move, the company requires a data-driven assessment of historical aircraft incidents and accidents to evaluate operational risks.
@@ -90,6 +89,7 @@ The refined dataset enabled meaningful analysis of risk across various aircraft 
 
 
 **Data Analysis**
+**Aviation Accident Trends Over Time**
 
 ![Trends Over Time](images/trends.png)
 
