@@ -119,7 +119,7 @@ While modern aviation is significantly safer today, sustaining this safety recor
 
 
 Cessna leads in all three categories—incidents, injuries, and fatalities—followed by Piper and Boeing. 
-This suggests that while these aircraft make are widely used, they may also carry higher operational risks based on their historical incident records.
+This suggests that while these aircraft are widely used, they may also carry higher operational risks based on their historical incident records.
 
 **Total Injuries, Purpose of Flight, and Make**
 
@@ -152,7 +152,7 @@ Business and executive flights report relatively lower injury rates, suggesting 
 Most fatal aviation accidents are concentrated within the United States, highlighting it as a primary region of concern in terms of incident frequency and severity.
 This trend can be attributed to the country’s high volume of air traffic, widespread use of private aircraft, and comprehensive reporting systems.
 On the map, larger circles represent higher fatality counts—some reaching up to 25 lives lost in a single incident. The spatial distribution reveals several high-density zones across the U.S.,
-whereas other regions around the world appear with fewer incidents, likely due to a combination of lower aviation activity, underreporting, or limited access to detailed records.
+Whereas other regions around the world appear with fewer incidents, likely due to a combination of lower aviation activity, underreporting, or limited access to detailed records.
 These geographic insights emphasize the importance of focusing safety improvements and investment strategies in regions with historically higher incident rates.
 
 **Top 10 Aircraft With Few Incidents**
@@ -172,8 +172,34 @@ As a result, accident rates have steadily declined. However, our analysis shows 
 
 * Twin-engine and jet-powered aircraft demonstrate much lower incident and injury rates, indicating greater reliability for commercial and executive operations.
 
-* Geographic hotspots within the U.S., including states like California, Florida, and Texas, underscore the need for heightened operational awareness and possibly targeted safety initiatives in high-traffic regions
+* Geographic hotspots within the U.S., including states like California, Florida, and Texas, underscore the need for heightened operational awareness and possibly targeted safety initiatives in high-traffic regions.
 
+**Recomendations**
+
+
+***Prioritize Twin-Engine and Jet Aircraft for Investment**
+Opt for turbojet, turbo fan, and turboprop aircraft, which have consistently shown lower incident and injury rates. 
+These aircraft are more suitable for commercial and executive operations due to better safety performance.
+
+***Avoid Single-Engine Reciprocating Aircraft for High-Value Operations**
+Models like Cessna and Piper, though widely used, have higher historical injury and incident rates—especially in personal and recreational flights. 
+These may not be ideal for a company entering the aviation sector with safety as a top priority.
+
+***Focus on Commercial or Executive Flight Purposes**
+Data shows personal and recreational flights contribute the highest injury counts. Starting with business, executive, or certified commercial operations reduces risk exposure.
+
+***Implement Location-Specific Safety Measures**
+U.S. regions with historically high accident rates—such as California, Florida, and Texas—require more rigorous preflight procedures, localized training, 
+or risk-mitigating partnerships when operating in those areas.
+
+***Invest in Safety Training and Modern Equipment**
+Even with lower-risk aircraft, incidents can occur. Ensure continued investment in pilot training, aircraft maintenance, and modern safety technologies like real-time monitoring and automated alerts.
+
+***Regularly Monitor and Reassess Aircraft Performance**
+Maintain a data-driven safety dashboard to continuously monitor incident trends across aircraft types, flight purposes, and regions—adjusting strategy as new data emerges.
+
+***Consider Insurance and Risk Mitigation Strategies**
+Given the nature of aviation, incorporate robust insurance coverage, risk modeling, and emergency response plans to protect the business and passengers.
 
 
 
