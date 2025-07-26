@@ -108,7 +108,61 @@ While modern aviation is significantly safer today, sustaining this safety recor
 
 * Ongoing pilot and crew training
 
-* A strong, organization-wide safety culture
+* A strong safety culture.
+
+**Top 10 Aircraft Makes with Highest Injuries**
+
+
+![Top 10 Aircraft](images/Top10.png)
+
+
+Cessna leads in all three categories—incidents, injuries, and fatalities—followed by Piper and Boeing. 
+This suggests that while these aircraft make are widely used, they may also carry higher operational risks based on their historical incident records.
+
+**Total Injuries, Purpose of Flight, and Make**
+
+![Injuries by Purpose](images/purpose.png)
+
+
+Personal flights account for the highest number of injuries, with Cessna, Piper, and Beech aircraft most frequently involved. 
+Significant injury counts are also observed in categories such as "Other Work Use" and skydiving operations. In contrast, 
+Business and executive flights report relatively lower injury rates, suggesting safer outcomes in more structured or regulated flight purposes.
+
+**Number of Accidents by Engine Types**
+
+
+![Engine Injuries](images/engine.png)
+
+* Reciprocating (1 engine): 8,631 injuries – highest risk, especially in single-engine aircraft.
+
+* Reciprocating (2 engines): 1,570 injuries – still risky, but significantly safer than single-engine counterparts.
+
+* Turbo Fan & Turbo Jet (2 engines): 670 and 162 injuries, respectively – lower injury counts, suggesting higher safety in commercial jet operations.
+
+* Turbo Prop (2 engines): 548 injuries – moderate risk in twin-engine propeller aircraft.
+
+* Turbo Shaft (1 engine): 518 injuries – primarily helicopters, with a moderate injury count.
+
+**Geographical Accident Distribution**
+
+![Accident Locations](images/location.png)
+
+Most fatal aviation accidents are concentrated within the United States, highlighting it as a primary region of concern in terms of incident frequency and severity.
+This trend can be attributed to the country’s high volume of air traffic, widespread use of private aircraft, and comprehensive reporting systems.
+On the map, larger circles represent higher fatality counts—some reaching up to 25 lives lost in a single incident. The spatial distribution reveals several high-density zones across the U.S.,
+whereas other regions around the world appear with fewer incidents, likely due to a combination of lower aviation activity, underreporting, or limited access to detailed records.
+These geographic insights emphasize the importance of focusing safety improvements and investment strategies in regions with historically higher incident rates.
+
+**Top 10 Aircraft With Few Incidents**
+
+![Aircraft Types](images/aircraft.png)
+
+These aircraft models experienced incidents without resulting in serious consequences, indicating the presence of effective safety features, 
+well-trained crew response, or favorable operating conditions. This highlights an important distinction: not all incidents lead to injuries or 
+fatalities, especially when strong aviation safety systems are in place.
+
+
+
 
 
 
