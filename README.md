@@ -45,7 +45,7 @@ The objective is to identify lower-risk aircraft types and flight operations to 
 
 **Key Business Questions**
 
-* Which aircraft makes have historically been involved in the fewest injuries or fatalities?
+* Which aircraft models have historically been involved in the fewest injuries or fatalities?
 * 
 * Are certain types of flight operations (e.g., personal, business, commercial) riskier than others?
 * 
@@ -65,7 +65,7 @@ The objective is to identify lower-risk aircraft types and flight operations to 
 
 The dataset used in this project comes from the National Transportation Safety Board (NTSB).
 
-&nbsp;It contains detailed records of aircraft accidents and incidents, including injury counts, aircraft characteristics, and purpose of flight.
+&nbsp; It contains detailed records of aircraft accidents and incidents, including injury counts, aircraft characteristics, and purpose of flight.
 
 
 
@@ -83,13 +83,34 @@ The dataset includes over 90,000 aviation incident records with the following ke
 
 •	Number of Fatal and Non-Fatal Injuries
 
-After cleaning and preprocessing, null values were handled and irrelevant entries removed 
+After cleaning and preprocessing, null values were handled, and irrelevant entries were  removed. 
 
-The refined dataset allowed for meaningful analysis of risk across different aircraft attributes and flight purposes.
+The refined dataset enabled meaningful analysis of risk across various aircraft attributes and flight purposes.
 
 
 
 **Data Analysis**
+
+![Trends Over Time](images/trends.png)
+
+We observe a sharp spike in incidents around 1982, which likely corresponds to improvements in reporting practices rather than an actual surge in accidents. 
+Since that time, the number of aviation accidents has steadily declined, likely due to several contributing factors:
+
+* Stricter regulations and oversight
+
+* Improved industry compliance
+
+* Significant technological advancements in aircraft safety systems
+
+While modern aviation is significantly safer today, sustaining this safety record requires continued investment in:
+
+* Advanced equipment
+
+* Ongoing pilot and crew training
+
+* A strong, organization-wide safety culture
+
+
 
 
 
